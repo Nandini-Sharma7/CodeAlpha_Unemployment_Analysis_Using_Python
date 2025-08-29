@@ -2,7 +2,7 @@
 
 Leveraged data visualization & ML to study unemployment trends, patterns, and their impact on the economy.
 
-✨ Highlights:
+# ✨ Highlights:
 
 📌 Cleaned &amp; explored Kaggle dataset
 
