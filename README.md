@@ -1,4 +1,8 @@
-Unemployment Analysis with Python 📊 
+# Unemployment Analysis with Python 📊 
+
+Leveraged data visualization & ML to study unemployment trends, patterns, and their impact on the economy.
+
+✨ Highlights:
 
 📌 Cleaned &amp; explored Kaggle dataset
 
